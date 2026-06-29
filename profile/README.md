@@ -18,6 +18,11 @@ work around multimodal medical imaging, clinician-facing decision support, and
 responsible translation of research prototypes into carefully validated clinical
 contexts.
 
+BreastScreening-AI is a spinoff from Instituto Superior Tecnico, University of
+Lisbon, founded by Francisco Maria Calisto and Dr. Joao Maria Abrantes before
+the end of Francisco Maria Calisto's PhD. It was founded on December 22, 2023,
+incorporated on January 4, 2024, and operates under SensiPerception.
+
 ## Focus Areas
 
 - AI-assisted breast cancer screening.
@@ -32,6 +37,23 @@ contexts.
 - Documentation and resources related to the BreastScreening-AI initiative.
 - Communication assets for project recognition, collaborations, and public
   reporting.
+
+## Research Ecosystem
+
+BreastScreening-AI is part of a broader medical imaging research ecosystem:
+
+- [MIMBCD-UI](https://github.com/MIMBCD-UI) supports internal proof-of-concept
+  work, often studied and validated by Bachelor's and Master's students, with
+  clinicians and PhD students also contributing at initiative level.
+- [MIDA](https://github.com/mida-project) elevates mature research work from the
+  ecosystem and supports PhD and PostDoc research around medical imaging
+  diagnosis assistance.
+- [BreastScreening](https://github.com/BreastScreening) supports external and
+  international academic collaboration with universities worldwide.
+- [BreastScreening-AI](https://github.com/BreastScreeningAI) is the spinoff
+  initiative under SensiPerception.
+- [SensiPerception](https://github.com/SensiPerception) is the company-level
+  GitHub initiative.
 
 ## Project Principles
 
@@ -49,6 +71,7 @@ contexts.
 - [Public website](https://breastscreeningai.github.io)
 - [Website repository](https://github.com/BreastScreeningAI/breastscreeningai.github.io)
 - [GitHub organization](https://github.com/BreastScreeningAI)
+- [Research ecosystem notes](https://github.com/BreastScreeningAI/.github/blob/main/docs/ecosystem.md)
 
 ## Responsible AI And Clinical Safety
 
@@ -65,6 +88,7 @@ repository apply:
 
 - [Contributing](https://github.com/BreastScreeningAI/.github/blob/main/CONTRIBUTING.md)
 - [Code of Conduct](https://github.com/BreastScreeningAI/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Governance](https://github.com/BreastScreeningAI/.github/blob/main/GOVERNANCE.md)
 - [Security](https://github.com/BreastScreeningAI/.github/blob/main/SECURITY.md)
 - [Support](https://github.com/BreastScreeningAI/.github/blob/main/SUPPORT.md)
 

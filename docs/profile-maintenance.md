@@ -9,6 +9,7 @@ default community health files.
 - Check that website links consistently use `https://breastscreeningai.github.io`.
 - Check that repository links point to the correct GitHub repositories.
 - Update focus areas if the project scope changes.
+- Keep the research ecosystem description aligned with `docs/ecosystem.md`.
 - Keep clinical safety language visible and conservative.
 - Remove stale template text or inactive links.
 
@@ -19,6 +20,8 @@ default community health files.
 - Add repository-specific guidance inside individual repositories when their
   needs differ from the organization defaults.
 - Review issue and pull request templates after major workflow changes.
+- Review `GOVERNANCE.md` and `docs/ecosystem.md` when work moves between
+  MIMBCD-UI, MIDA, BreastScreening, BreastScreening-AI, and SensiPerception.
 
 ## Public Communication
 

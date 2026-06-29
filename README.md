@@ -14,6 +14,8 @@ health files for the BreastScreening-AI organization.
   default issue and pull request templates.
 - `docs/profile-maintenance.md` provides a checklist for keeping the
   organization profile current.
+- `docs/ecosystem.md` documents how BreastScreening-AI relates to MIMBCD-UI,
+  MIDA, BreastScreening, and SensiPerception.
 - `LICENSE` applies to the contents of this repository.
 
 ## Public Website
