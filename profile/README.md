@@ -1,4 +1,4 @@
-![BreastScreening-AI header](https://breastscreeningai.github.io/assets/images/hero/header.gif)
+![BreastScreening-AI header](https://github.com/BreastScreeningAI/breastscreeningai.github.io/raw/main/assets/images/hero/header.gif)
 
 # BreastScreening-AI
 
