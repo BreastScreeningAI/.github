@@ -50,7 +50,7 @@ BreastScreening-AI is part of a broader medical imaging research ecosystem:
   diagnosis assistance.
 - [BreastScreening](https://github.com/BreastScreening) supports external and
   international academic collaboration with universities worldwide.
-- [BreastScreening-AI](https://github.com/BreastScreeningAI) is the spinoff
+- [BreastScreening-AI](https://github.com/BreastScreeningAI) is the [IST](https://tecnico.ulisboa.pt/en/) spinoff
   initiative under SensiPerception.
 - [SensiPerception](https://github.com/SensiPerception) is the company-level
   GitHub initiative.
