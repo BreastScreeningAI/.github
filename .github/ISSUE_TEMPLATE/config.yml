@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Public website
-    url: https://breastscreeningai.eu
+    url: https://breastscreeningai.github.io
     about: Visit the BreastScreening-AI public website.
   - name: Security or privacy report
     url: https://github.com/BreastScreeningAI/.github/blob/main/SECURITY.md

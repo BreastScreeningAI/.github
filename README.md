@@ -20,4 +20,4 @@ health files for the BreastScreening-AI organization.
 
 The public project website is maintained separately in the
 `breastscreeningai.github.io` repository and is published at
-https://breastscreeningai.eu.
+https://breastscreeningai.github.io.

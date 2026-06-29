@@ -8,7 +8,15 @@ medical imaging, clinical practice, and responsible artificial intelligence.
 
 The public project website is available at:
 
-https://breastscreeningai.eu
+https://breastscreeningai.github.io
+
+## Project Snapshot
+
+BreastScreening-AI explores AI-assisted analysis of breast screening images,
+including mammography, MRI, and ultrasound workflows. The project communicates
+work around multimodal medical imaging, clinician-facing decision support, and
+responsible translation of research prototypes into carefully validated clinical
+contexts.
 
 ## Focus Areas
 
@@ -38,7 +46,7 @@ https://breastscreeningai.eu
 
 ## Featured Resources
 
-- [Public website](https://breastscreeningai.eu)
+- [Public website](https://breastscreeningai.github.io)
 - [Website repository](https://github.com/BreastScreeningAI/breastscreeningai.github.io)
 - [GitHub organization](https://github.com/BreastScreeningAI)
 

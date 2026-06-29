@@ -6,7 +6,8 @@ default community health files.
 ## Profile README
 
 - Confirm the header image still renders.
-- Check that website and repository links are current.
+- Check that website links consistently use `https://breastscreeningai.github.io`.
+- Check that repository links point to the correct GitHub repositories.
 - Update focus areas if the project scope changes.
 - Keep clinical safety language visible and conservative.
 - Remove stale template text or inactive links.

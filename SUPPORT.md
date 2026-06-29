@@ -2,7 +2,7 @@
 
 For general information about BreastScreening-AI, start with the public website:
 
-https://breastscreeningai.eu
+https://breastscreeningai.github.io
 
 For repository-specific questions, open an issue in the relevant repository and
 include:
