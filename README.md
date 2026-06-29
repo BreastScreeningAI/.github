@@ -7,9 +7,13 @@ health files for the BreastScreening-AI organization.
 
 - `profile/README.md` controls the public organization profile shown at
   `github.com/BreastScreeningAI`.
-- `CONTRIBUTING.md`, `SECURITY.md`, and `SUPPORT.md` provide default guidance
-  for repositories in the organization unless a specific repository overrides
-  them.
+- `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, `SUPPORT.md`, and
+  `GOVERNANCE.md` provide default guidance for repositories in the organization
+  unless a specific repository overrides them.
+- `.github/ISSUE_TEMPLATE/` and `.github/PULL_REQUEST_TEMPLATE.md` provide
+  default issue and pull request templates.
+- `docs/profile-maintenance.md` provides a checklist for keeping the
+  organization profile current.
 - `LICENSE` applies to the contents of this repository.
 
 ## Public Website

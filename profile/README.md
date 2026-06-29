@@ -1,3 +1,5 @@
+![BreastScreening-AI header](https://breastscreeningai.github.io/assets/images/hero/header.gif)
+
 # BreastScreening-AI
 
 BreastScreening-AI is a project focused on AI-assisted breast screening,
@@ -7,6 +9,13 @@ medical imaging, clinical practice, and responsible artificial intelligence.
 The public project website is available at:
 
 https://breastscreeningai.eu
+
+## Focus Areas
+
+- AI-assisted breast cancer screening.
+- Multimodal medical imaging workflows.
+- Clinician decision support and second-opinion tooling.
+- Research communication, public reporting, and collaboration materials.
 
 ## What This Organization Hosts
 
@@ -27,6 +36,19 @@ https://breastscreeningai.eu
 - Reproducibility and maintainability matter: repositories should document setup,
   assumptions, and validation steps.
 
+## Featured Resources
+
+- [Public website](https://breastscreeningai.eu)
+- [Website repository](https://github.com/BreastScreeningAI/breastscreeningai.github.io)
+- [GitHub organization](https://github.com/BreastScreeningAI)
+
+## Responsible AI And Clinical Safety
+
+BreastScreening-AI materials should be read in a research and project
+communication context. Any clinical use of AI-assisted screening requires
+appropriate validation, clinical governance, privacy review, and expert
+oversight.
+
 ## Working With These Repositories
 
 Before contributing, read the guidance in the relevant repository. If no
@@ -34,6 +56,7 @@ repository-specific guidance exists, the organization defaults in this `.github`
 repository apply:
 
 - [Contributing](https://github.com/BreastScreeningAI/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/BreastScreeningAI/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Security](https://github.com/BreastScreeningAI/.github/blob/main/SECURITY.md)
 - [Support](https://github.com/BreastScreeningAI/.github/blob/main/SUPPORT.md)
 
